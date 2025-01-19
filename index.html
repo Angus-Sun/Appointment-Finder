@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Appointments </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+    <h1>Find Your Appointment Schedule Here!</h1>
+    <p class="subheading">Quickly search and find your upcoming parent-teacher meetings.</p>
+</div>
+    <div class="search-container">
+        <input type="text" id="searchBar" oninput="searchNames()" placeholder="Search students..." autocomplete="off">
+    </div>
+    <ul id="suggestions" class="dropdown-content"></ul>
+    <div id="studentNameHeader" class="student-name-header"></div>
+    <div id="details"></div>
+    <script src="script.js"></script>
+</body>
+</html>
