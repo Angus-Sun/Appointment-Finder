@@ -164,7 +164,7 @@ function extractTeacherName(teacher) {
 
 function extractLocation(teacher) {
     const match = teacher.match(/\[([A-Za-z0-9]+)\]/);
-    return match;
+    return match[1];
 }
 
 window.onload = loadData;
