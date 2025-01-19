@@ -1,5 +1,5 @@
 # Appointment Finder Program Made for Parent-Teacher Conferences
-Takes a csv file of all parent-teacher meetings and turns it into an interactive program where students can find their parent-teacher conference schedule
+Takes a CSV file of all parent-teacher meetings and turns it into an interactive program where students can find their parent-teacher conference schedule
 
 ## Build Instructions
 
