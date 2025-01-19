@@ -15,7 +15,7 @@ pip install pandas
 ```
 3. Replace the sample CSV file in the data folder with the CSV file you want to convert.
 
-4. Change the path of CSV file to the name of your CSV file in CSVtoJSONConverter.py
+4. Change the path of CSV file to the name of your CSV file in CSVtoJSONConverter.py and delete the old data.json file
   
 5. Run CSVtoJSONConverter.py
    
