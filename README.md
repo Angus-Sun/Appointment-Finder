@@ -21,7 +21,7 @@ pip install pandas
    
 6. Install the Live Server extension in VSCode
    
-7. Press the "Go Live" button (Alternatively if you have python installed, you can run the command line in a terminal inside the folder:
+7. Press the "Go Live" button (Alternatively if you have python installed, you can run the command line in a terminal inside the folder as shown below)
 
 ```
 Python -m http.server 5500
